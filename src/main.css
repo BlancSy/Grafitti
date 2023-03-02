@@ -59,7 +59,7 @@
     --bg-sendmessage: rgba(0, 0, 0, 0.65);
     --bg-members: rgba(0, 0, 0, 0.55);
     --bg-chat-elements: rgba(0, 0, 0, 0.55);
-    --bg-settings: transparent;
+    --bg-settings: rgba(0, 0, 0, 0.55);
     --bg-colorprofile: rgba(0, 0, 0, 0.55);
 
     /* SERVER SETTINGS */
