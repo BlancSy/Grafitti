@@ -24,7 +24,13 @@
     --font: 'Quicksand', 'emoji', sans-serif;
     --Text: rgb(255, 255, 255);
     --logo: url(https://media.discordapp.net/attachments/1079451989668278293/1079452393734938634/Logo2.jpeg);
-/*	https://cdn.discordapp.com/attachments/1079451989668278293/1079452234397515977/Logo1.jpeg https://media.discordapp.net/attachments/1079451989668278293/1079452393734938634/Logo2.jpeg
+/*	
+https://cdn.discordapp.com/attachments/1079451989668278293/1079452234397515977/Logo1.jpeg 
+https://media.discordapp.net/attachments/1079451989668278293/1079452393734938634/Logo2.jpeg
+https://cdn.discordapp.com/attachments/1079451989668278293/1080934485392109680/logo3.jpeg
+https://cdn.discordapp.com/attachments/1079451989668278293/1080934485052366928/logo4.jpeg
+https://cdn.discordapp.com/attachments/1079451989668278293/1080934484733608026/logo5.jpeg
+*/
      /* STATUS VARIABLES */
     --Online: rgb(0, 255, 6);
     --Idle: rgb(18, 100, 239);
@@ -52,6 +58,13 @@
 
     /* BACKGROUNDS */
     --background: url(https://cdn.discordapp.com/attachments/1079451989668278293/1079452318522687579/Background.jpeg);
+/*	
+https://cdn.discordapp.com/attachments/1079451989668278293/1079452318522687579/Background.jpeg
+https://cdn.discordapp.com/attachments/1079451989668278293/1080934464613515274/wallpaper2.jpeg
+https://cdn.discordapp.com/attachments/1079451989668278293/1080934466173796393/wallpaper3.jpeg
+https://cdn.discordapp.com/attachments/1079451989668278293/1080934465636946031/wallpaper4.jpeg
+https://cdn.discordapp.com/attachments/1079451989668278293/1080934465079087285/wallpaper5.jpeg
+*/
     --bg-titlebar: rgba(0, 0, 0, 0.55);
     --bg-servers: rgba(0, 0, 0, 0.55);
     --bg-ui: rgba(0, 0, 0, 0.55);
