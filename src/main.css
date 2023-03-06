@@ -23,7 +23,8 @@
     /* MAIN VARIABLES */
     --font: 'Quicksand', 'emoji', sans-serif;
     --Text: rgb(255, 255, 255);
-    --logo: url(https://media.discordapp.net/attachments/1079451989668278293/1079452393734938634/Logo2.jpeg);
+    --logo: url(https://cdn.discordapp.com/attachments/1079451989668278293/1080934485052366928/logo4.jpeg);
+    --Watermark: "Graffiti";
 /*	
 https://cdn.discordapp.com/attachments/1079451989668278293/1079452234397515977/Logo1.jpeg 
 https://media.discordapp.net/attachments/1079451989668278293/1079452393734938634/Logo2.jpeg
@@ -57,7 +58,7 @@ https://cdn.discordapp.com/attachments/1079451989668278293/1080934484733608026/l
     --Selected: rgb(11 156 255);
 
     /* BACKGROUNDS */
-    --background: url(https://cdn.discordapp.com/attachments/1079451989668278293/1079452318522687579/Background.jpeg);
+    --background: url(https://cdn.discordapp.com/attachments/1079451989668278293/1080934466173796393/wallpaper3.jpeg);
 /*	
 https://cdn.discordapp.com/attachments/1079451989668278293/1079452318522687579/Background.jpeg
 https://cdn.discordapp.com/attachments/1079451989668278293/1080934464613515274/wallpaper2.jpeg
